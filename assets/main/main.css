@@ -3001,10 +3001,25 @@ label .checked-3_4uQ9 {
 }
 
 .container-YkUktl {
-    margin-top: 5px;
-    margin-bottom: 5px;
-    margin-left: 5px;
-    margin-right: 5px;
+  height: 85px;
+}
+.container-YkUktl .avatarWrapper-1B9FTW {
+  position: absolute;
+  bottom: 45px;
+}
+.container-YkUktl .nameTag-sc-gpq {
+  position: absolute;
+  bottom: 45px;
+  left: 50px;
+}
+.container-YkUktl > .noWrap-hBpHBz {
+  width: 224px;
+  bottom: 5px;
+  position: absolute;
+}
+.container-YkUktl > .noWrap-hBpHBz button {
+  width: 100%;
+  justify-content: space-evenly;
 }
 
 
