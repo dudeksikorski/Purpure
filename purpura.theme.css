@@ -1,18 +1,17 @@
 /**
 * @name Purpura
-* @author blueb
-* @authorId 403390454273409028
+* @author Dudeksikorski
+* @authorId 622691164843409418
 * @version 2.8.1
 * @description A dark purple BetterDiscord theme, with a multi panel look and glow.
-* @source https://github.com/blueb442/purpura
-* @updateUrl https://github.com/blueb442/purpura/blob/main/purpura.theme.css
+* @source https:https://github.com/dudeksikorski/Purpure
 */
 
 /* Main Theme File, please do not remove */
-@import url(https://blueb442.github.io/purpura/assets/main/main.css);
+@import url(https://dudeksikorski.com/usrbg/main.css);
 
 /* Image assets, still very important, please do not remove. */
-@import url(https://blueb442.github.io/purpura/assets/allinone-sprite.png);
+@import url(https://dudeksikorski.com/usrbg/allinone-sprite.png);
 
 /* Commissioner font, Source Sans Pro and Fira Code font, please do not remove. */
 @import url(https://fonts.googleapis.com/css2?family=Commissioner:wght@100;200;300;400;500;600;700;800;900&display=swap);
@@ -21,4 +20,27 @@
 
 
 /* Discord Custom Covers, Optional */
-@import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css%27');
+@import url('https://dudeksikorski.com/usrbg/usrbg.css');
+
+
+.container-YkUktl {
+  height: 85px;
+}
+.container-YkUktl .avatarWrapper-1B9FTW {
+  position: absolute;
+  bottom: 45px;
+}
+.container-YkUktl .nameTag-sc-gpq {
+  position: absolute;
+  bottom: 45px;
+  left: 50px;
+}
+.container-YkUktl > .noWrap-hBpHBz {
+  width: 224px;
+  bottom: 5px;
+  position: absolute;
+}
+.container-YkUktl > .noWrap-hBpHBz button {
+  width: 100%;
+  justify-content: space-evenly;
+}
